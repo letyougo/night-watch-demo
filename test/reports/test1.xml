@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test1"
+    errors="1" failures="0" hostname="" id="" package="test1" skipped="0"
+    tests="1" time="0.009000" timestamp="Sat, 22 Jul 2017 02:37:40 GMT">
+  
+    <testcase name="todo-mvc" classname="test1" time="0.009000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Test1 / todo-mvc]:
+
+  TypeError: client.verify.cssClassPresent(...).containsText is not a function
+    at Object.todo-mvc (/Users/xiaoxiaosu/Desktop/night-watch-demo/test/e2e/test1.js:58:18)
+    at Module.call (/Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/nightwatch/lib/runner/module.js:62:34)
+    at /Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/nightwatch/lib/runner/testcase.js:70:29
+    at _fulfilled (/Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/q/q.js:834:54)
+    at self.promiseDispatch.done (/Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/q/q.js:863:30)
+    at Promise.promise.promiseDispatch (/Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/q/q.js:796:13)
+    at /Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/q/q.js:556:49
+    at runSingle (/Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/q/q.js:137:13)
+    at flush (/Users/xiaoxiaosu/Desktop/night-watch-demo/node_modules/q/q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

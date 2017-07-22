@@ -1,0 +1,289 @@
+{
+    "bizStatus": "ready",
+    "desc": "",
+    "productTipList": [
+        {
+            "productScope": 1,
+            "productType": "10"
+        },
+        {
+            "productScope": 1,
+            "productType": "2",
+            "productTip": "当月有效，月底失效"
+        },
+        {
+            "productScope": 2,
+            "productType": "10"
+        },
+        {
+            "productScope": 2,
+            "productType": "2",
+            "productTip": "当月有效，月底失效"
+        },
+        {
+            "productScope": 6,
+            "productType": "10",
+            "productTip": "当月和次月有效"
+        },
+        {
+            "productScope": 6,
+            "productType": "2"
+        }
+    ],
+    "productBackward": [
+        {
+            "flowTotalUnit": "250MB",
+            "productId": "mi_huodong2017052500042",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 2600,
+            "productName": "250MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "give250m",
+            "flowTotal": 250,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "1GB",
+            "productId": "mi_huodong2017052500044",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 5900,
+            "productName": "1GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "give1024m",
+            "flowTotal": 1024,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "1GB",
+            "productId": "mi_normal2017052500043",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 4750,
+            "productName": "1GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 1024,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "1GB",
+            "productId": "mi_normal2017071100005",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 4000,
+            "productName": "1GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 1024,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "2GB",
+            "productId": "mi_normal2017052500044",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 6650,
+            "productName": "2GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 2048,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "3GB",
+            "productId": "mi_normal2017052500045",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 9500,
+            "productName": "3GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 3072,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "3GB",
+            "productId": "mi_normal2017071100007",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 8000,
+            "productName": "3GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 3072,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "6GB",
+            "productId": "mi_normal2017071100009",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 14400,
+            "productName": "6GB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 6144,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "30MB",
+            "productId": "mi_normal2017052500035",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 475,
+            "productName": "30MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 30,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "30MB",
+            "productId": "mi_normal2017071100001",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 420,
+            "productName": "30MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 30,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "70MB",
+            "productId": "mi_normal2017052500037",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 950,
+            "productName": "70MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 70,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "70MB",
+            "productId": "mi_normal2017071100002",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 850,
+            "productName": "70MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 70,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "100MB",
+            "productId": "mi_normal2017052500038",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 950,
+            "productName": "100MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 100,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "150MB",
+            "productId": "mi_normal2017071100003",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 1700,
+            "productName": "150MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 150,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "150MB",
+            "productId": "mi_normal2017052500039",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 1900,
+            "productName": "150MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 150,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "300MB",
+            "productId": "mi_normal2017052500041",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 1900,
+            "productName": "300MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "cuxiao",
+            "flowTotal": 300,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "500MB",
+            "productId": "mi_normal2017052500042",
+            "productScope": 1,
+            "productType": "2",
+            "retailPrice": 2850,
+            "productName": "500MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 500,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "500MB",
+            "productId": "mi_normal2017071100004",
+            "productScope": 2,
+            "productType": "2",
+            "retailPrice": 2400,
+            "productName": "500MB加油包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 500,
+            "isBack": "后向"
+        },
+        {
+            "flowTotalUnit": "100MB",
+            "expiredPrice": "1000",
+            "activityUrl": "mibrowser://home?web_url=https%3a%2f%2fservice.10046.mi.com%2fmain_home%3ffrom%3d2122",
+            "productId": "mi_misim2016121500030",
+            "productScope": 6,
+            "productType": "10",
+            "retailPrice": 150,
+            "productName": "100MB 米SIM流量包",
+            "orderMethod": "网络支付",
+            "cornerTip": "",
+            "flowTotal": 100,
+            "isBack": "后向"
+        }
+    ],
+    "productTypeList": [
+        {
+            "typeName": "流量包",
+            "productType": "10"
+        },
+        {
+            "typeName": "加油包",
+            "productType": "2"
+        }
+    ],
+    "productScopeList": [
+        {
+            "scopeName": "全国",
+            "productScope": 1
+        },
+        {
+            "scopeName": "省内",
+            "productScope": 2
+        },
+        {
+            "scopeName": "米SIM全国",
+            "productScope": 6
+        }
+    ]
+}
